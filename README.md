@@ -8,4 +8,4 @@
 
 4. Data Sources: Nba_Api, probasketballapi, NBA.com, ESPN  
 
-5.Acceptance Criteria: As a user I should be able to evaulate whether a NBA players performance improved or declined after All-Star break by total points, rebounds, assist and turnovers (player efficency) by comparing to before All-Star break stats. 
+5.Acceptance Criteria: As a user I should be able to evaulate whether a NBA player's performance improved or declined after All-Star break by total points, rebounds, assist and turnovers (player efficency) by comparing to before All-Star break stats. 
